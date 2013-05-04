@@ -3,10 +3,10 @@
 public Plugin:myinfo =
 {
   name = "Doublemix Assistant",
-  author = "Underyx",
+  author = "thecookiefactory",
   description = "A plugin for overseeing doublemixes",
   version = "0",
-  url = "https://github.com/Underyx/doublemix-assistant/"
+  url = "https://github.com/thecookiefactory/doublemix-assistant/"
 };
 
 public OnPluginStart()
